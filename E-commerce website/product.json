@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"Black TShirt",
+        "price": 1000,
+        "image": "product1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Black TShirt",
+        "price": 1999,
+        "image": "product2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 1290,
+        "image": "product3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 1200,
+        "image": "product4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 1300,
+        "image": "product5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 1500,
+        "image": "product6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 2000,
+        "image": "product7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 1200,
+        "image": "product1.jpg"
+    }
+
+]
